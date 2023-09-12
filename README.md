@@ -1,4 +1,4 @@
-# MqttTestProject
+# MqttTestProject .NET Framework 4.5
 Testing HiveMQ MQTT Broker functionality
 
 1. Run MqttMessageListener.sln file
