@@ -1,0 +1,12 @@
+C:\Users\Vladislav\Desktop\MqttLib\MqttBrokerClient\bin\Debug\MqttBrokerClient.exe.config
+C:\Users\Vladislav\Desktop\MqttLib\MqttBrokerClient\bin\Debug\MqttBrokerClient.exe
+C:\Users\Vladislav\Desktop\MqttLib\MqttBrokerClient\bin\Debug\MqttBrokerClient.pdb
+C:\Users\Vladislav\Desktop\MqttLib\MqttBrokerClient\bin\Debug\MqttLib.dll
+C:\Users\Vladislav\Desktop\MqttLib\MqttBrokerClient\bin\Debug\MqttLib.pdb
+C:\Users\Vladislav\Desktop\MqttLib\MqttBrokerClient\obj\Debug\MqttBrokerClient.csproj.AssemblyReference.cache
+C:\Users\Vladislav\Desktop\MqttLib\MqttBrokerClient\obj\Debug\MqttBrokerClient.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav\Desktop\MqttLib\MqttBrokerClient\obj\Debug\MqttBrokerClient.csproj.CopyComplete
+C:\Users\Vladislav\Desktop\MqttLib\MqttBrokerClient\obj\Debug\MqttBrokerClient.exe
+C:\Users\Vladislav\Desktop\MqttLib\MqttBrokerClient\obj\Debug\MqttBrokerClient.pdb
+C:\Users\Vladislav\Desktop\MqttLib\MqttBrokerClient\bin\Debug\M2Mqtt.Net.dll
+C:\Users\Vladislav\Desktop\MqttLib\MqttBrokerClient\bin\Debug\M2Mqtt.Net.pdb

@@ -1,0 +1,18 @@
+C:\Users\Vladislav\Desktop\MqttLib\MqttLib\bin\Debug\MqttLib.dll
+C:\Users\Vladislav\Desktop\MqttLib\MqttLib\bin\Debug\MqttLib.pdb
+C:\Users\Vladislav\Desktop\MqttLib\MqttLib\bin\Debug\M2Mqtt.Net.dll
+C:\Users\Vladislav\Desktop\MqttLib\MqttLib\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\Vladislav\Desktop\MqttLib\MqttLib\obj\Debug\MqttLib.csproj.AssemblyReference.cache
+C:\Users\Vladislav\Desktop\MqttLib\MqttLib\obj\Debug\MqttLib.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav\Desktop\MqttLib\MqttLib\obj\Debug\MqttLib.csproj.CopyComplete
+C:\Users\Vladislav\Desktop\MqttLib\MqttLib\obj\Debug\MqttLib.dll
+C:\Users\Vladislav\Desktop\MqttLib\MqttLib\obj\Debug\MqttLib.pdb
+C:\Users\Vladislav\Desktop\Nowy folder (3)\MqttLib\MqttLib\bin\Debug\MqttLib.dll
+C:\Users\Vladislav\Desktop\Nowy folder (3)\MqttLib\MqttLib\bin\Debug\MqttLib.pdb
+C:\Users\Vladislav\Desktop\Nowy folder (3)\MqttLib\MqttLib\bin\Debug\M2Mqtt.Net.dll
+C:\Users\Vladislav\Desktop\Nowy folder (3)\MqttLib\MqttLib\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\Vladislav\Desktop\Nowy folder (3)\MqttLib\MqttLib\obj\Debug\MqttLib.csproj.AssemblyReference.cache
+C:\Users\Vladislav\Desktop\Nowy folder (3)\MqttLib\MqttLib\obj\Debug\MqttLib.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav\Desktop\Nowy folder (3)\MqttLib\MqttLib\obj\Debug\MqttLib.csproj.CopyComplete
+C:\Users\Vladislav\Desktop\Nowy folder (3)\MqttLib\MqttLib\obj\Debug\MqttLib.dll
+C:\Users\Vladislav\Desktop\Nowy folder (3)\MqttLib\MqttLib\obj\Debug\MqttLib.pdb

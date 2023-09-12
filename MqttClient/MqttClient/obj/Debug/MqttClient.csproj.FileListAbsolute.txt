@@ -1,0 +1,12 @@
+C:\Users\Vladislav\Desktop\Nowy folder (3)\MqttClient\MqttClient\bin\Debug\MqttClient.exe.config
+C:\Users\Vladislav\Desktop\Nowy folder (3)\MqttClient\MqttClient\bin\Debug\MqttClient.exe
+C:\Users\Vladislav\Desktop\Nowy folder (3)\MqttClient\MqttClient\bin\Debug\MqttClient.pdb
+C:\Users\Vladislav\Desktop\Nowy folder (3)\MqttClient\MqttClient\bin\Debug\MqttLib.dll
+C:\Users\Vladislav\Desktop\Nowy folder (3)\MqttClient\MqttClient\bin\Debug\M2Mqtt.Net.dll
+C:\Users\Vladislav\Desktop\Nowy folder (3)\MqttClient\MqttClient\bin\Debug\MqttLib.pdb
+C:\Users\Vladislav\Desktop\Nowy folder (3)\MqttClient\MqttClient\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\Vladislav\Desktop\Nowy folder (3)\MqttClient\MqttClient\obj\Debug\MqttClient.csproj.AssemblyReference.cache
+C:\Users\Vladislav\Desktop\Nowy folder (3)\MqttClient\MqttClient\obj\Debug\MqttClient.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav\Desktop\Nowy folder (3)\MqttClient\MqttClient\obj\Debug\MqttClient.csproj.CopyComplete
+C:\Users\Vladislav\Desktop\Nowy folder (3)\MqttClient\MqttClient\obj\Debug\MqttClient.exe
+C:\Users\Vladislav\Desktop\Nowy folder (3)\MqttClient\MqttClient\obj\Debug\MqttClient.pdb

@@ -1,0 +1,12 @@
+C:\Users\Vladislav\Desktop\Nowy folder (3)\MqttMessageListener\MqttMessageListener\bin\Debug\MqttMessageListener.exe.config
+C:\Users\Vladislav\Desktop\Nowy folder (3)\MqttMessageListener\MqttMessageListener\bin\Debug\MqttMessageListener.exe
+C:\Users\Vladislav\Desktop\Nowy folder (3)\MqttMessageListener\MqttMessageListener\bin\Debug\MqttMessageListener.pdb
+C:\Users\Vladislav\Desktop\Nowy folder (3)\MqttMessageListener\MqttMessageListener\bin\Debug\MqttLib.dll
+C:\Users\Vladislav\Desktop\Nowy folder (3)\MqttMessageListener\MqttMessageListener\bin\Debug\M2Mqtt.Net.dll
+C:\Users\Vladislav\Desktop\Nowy folder (3)\MqttMessageListener\MqttMessageListener\bin\Debug\MqttLib.pdb
+C:\Users\Vladislav\Desktop\Nowy folder (3)\MqttMessageListener\MqttMessageListener\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\Vladislav\Desktop\Nowy folder (3)\MqttMessageListener\MqttMessageListener\obj\Debug\MqttMessageListener.csproj.AssemblyReference.cache
+C:\Users\Vladislav\Desktop\Nowy folder (3)\MqttMessageListener\MqttMessageListener\obj\Debug\MqttMessageListener.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav\Desktop\Nowy folder (3)\MqttMessageListener\MqttMessageListener\obj\Debug\MqttMessageListener.csproj.CopyComplete
+C:\Users\Vladislav\Desktop\Nowy folder (3)\MqttMessageListener\MqttMessageListener\obj\Debug\MqttMessageListener.exe
+C:\Users\Vladislav\Desktop\Nowy folder (3)\MqttMessageListener\MqttMessageListener\obj\Debug\MqttMessageListener.pdb
